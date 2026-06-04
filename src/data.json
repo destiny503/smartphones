@@ -1,0 +1,273 @@
+[
+  {
+    "brand": "Xiaomi",
+    "model": "13",
+    "date": "2022",
+    "price": "20000"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "14",
+    "date": "2023",
+    "price": "30000"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "15",
+    "date": "2024",
+    "price": "40000"
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "17",
+    "date": "2025",
+    "price": "50000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "7",
+    "date": "2022",
+    "price": "19000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "8",
+    "date": "2023",
+    "price": "25000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "8 Pro",
+    "date": "2023",
+    "price": "30000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "9",
+    "date": "2024",
+    "price": "35000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "9 Pro",
+    "date": "2024",
+    "price": "45000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "9 Pro XL",
+    "date": "2024",
+    "price": "50000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "10",
+    "date": "2025",
+    "price": "45000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "10 Pro",
+    "date": "2025",
+    "price": "55000"
+  },
+  {
+    "brand": "Pixel",
+    "model": "10 Pro XL",
+    "date": "2025",
+    "price": "60000"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "13",
+    "date": "2024",
+    "price": "40000"
+  },
+  {
+    "brand": "OnePlus",
+    "model": "15",
+    "date": "2025",
+    "price": "50000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S23",
+    "date": "2023",
+    "price": "30000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S23+",
+    "date": "2023",
+    "price": "35000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S24",
+    "date": "2024",
+    "price": "35000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S24+",
+    "date": "2024",
+    "price": "40000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S24 Ultra",
+    "date": "2024",
+    "price": "55000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S25 Edge",
+    "date": "2025",
+    "price": "45000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S25",
+    "date": "2025",
+    "price": "45000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S25+",
+    "date": "2025",
+    "price": "50000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S25 Ultra",
+    "date": "2025",
+    "price": "65000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S26",
+    "date": "2026",
+    "price": "50000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S26+",
+    "date": "2026",
+    "price": "55000"
+  },
+  {
+    "brand": "Samsung",
+    "model": "S26 Ultra",
+    "date": "2026",
+    "price": "75000"
+  },
+
+  {
+    "brand": "iPhone",
+    "model": "12",
+    "date": "2020",
+    "price": "17000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "12 Pro",
+    "date": "2020",
+    "price": "22000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "12 Pro Max",
+    "date": "2020",
+    "price": "26000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "13",
+    "date": "2021",
+    "price": "21000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "13 Pro",
+    "date": "2021",
+    "price": "25000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "13 Pro Max",
+    "date": "2021",
+    "price": "33000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "14",
+    "date": "2022",
+    "price": "26000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "14 Pro",
+    "date": "2022",
+    "price": "34000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "14 Pro Max",
+    "date": "2022",
+    "price": "37000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "15",
+    "date": "2023",
+    "price": "35000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "15 Pro",
+    "date": "2023",
+    "price": "46000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "15 Pro Max",
+    "date": "2023",
+    "price": "55000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "16",
+    "date": "2024",
+    "price": "43000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "16 Pro",
+    "date": "2024",
+    "price": "60000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "16 Pro Max",
+    "date": "2024",
+    "price": "70000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "17",
+    "date": "2025",
+    "price": "48000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "17 Pro",
+    "date": "2025",
+    "price": "90000"
+  },
+  {
+    "brand": "iPhone",
+    "model": "17 Pro Max",
+    "date": "2025",
+    "price": "95000"
+  }
+]
