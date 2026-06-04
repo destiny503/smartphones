@@ -1,6 +1,20 @@
 import s from "./Button.module.css";
 
-function Button({ label, value, currentFilter, onClick, className }) {
+interface ButtonProps {
+  label: string;
+  value: string;
+  currentFilter: string;
+  onClick: (value: string) => void;
+  className?: string;
+}
+
+function Button({
+  label,
+  value,
+  currentFilter,
+  onClick,
+  className,
+}: ButtonProps) {
   const isActive = currentFilter === value;
   return (
     <button
